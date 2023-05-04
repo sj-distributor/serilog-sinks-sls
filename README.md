@@ -1,1 +1,3 @@
-# serilog-sinks-sls
+# Serilog.Sinks.Sls
+
+Sends log events by Aliyun SLS.
